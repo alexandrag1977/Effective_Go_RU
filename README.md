@@ -3,7 +3,7 @@
 ------
 
 Оригинал смотри: https://golang.org/doc/effective_go.html
-`go version go1.7.4`
+`go version go1.7.4 `
 
 ------
 
